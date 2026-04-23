@@ -54,6 +54,3 @@ Este proyecto es una aplicación web desarrollada con React que permite realizar
    http://localhost:3000
    ```
 
-## 📌 Autor
-
-Proyecto desarrollado por Hugo Guerron.
